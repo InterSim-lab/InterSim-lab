@@ -21,12 +21,12 @@ Team ID         : C242-PS303
 Project Manager : Danang Hapis Fadillah - M211B4KY0976
 </pre>
 
-| Name                                                                                      | Bangkit ID   | Learning Path      |
-| ----------------------------------------------------------------------------------------- | ------------ | ------------------ |
-| [Danang Hapis Fadillah](https://www.linkedin.com/in/danang-hapis-fadillah-682878202/)     | M211B4KY0976 | Machine Learning   |
-| [Muhammad Rahmat Dhany](https://www.linkedin.com/in/dhanymuhammad08/)                     | M211B4KY3009 | Machine Learning   |
-| [Azis Marwadin](https://www.linkedin.com/in/azis-marwadin-5189442a0/)                     | M211B4KY0765 | Machine Learning   |
-| [Muhammad Fatih Azhar]()                                                                  | C211B4KY2838 | Cloud Computing    |
-| [Arien Alen Sucahyo](https://www.linkedin.com/in/arien-alen-58b482330/)                   | C211B4KX0635 | Cloud Computing    |
-| [Muhammad Rafli Octavian](https://www.linkedin.com/in/muhammad-rafli-octavian-8b3055231/) | A211B4KY3006 | Mobile Development |
-| [Akmal Muhammad Rasyad](https://www.linkedin.com/in/akmalmrasyad/)                        | A211B4KY0300 | Mobile Development |
+| Name                                                                                      | Bangkit ID   | Learning Path      | GitHub                                                                                  |
+| ----------------------------------------------------------------------------------------- | ------------ | ------------------ | --------------------------------------------------------------------------------------- |
+| [Danang Hapis Fadillah](https://www.linkedin.com/in/danang-hapis-fadillah-682878202/)     | M211B4KY0976 | Machine Learning   | [<img src="assets/github.png" alt="github-logo" width="30px">](https://github.com/n0yy) |
+| [Muhammad Rahmat Dhany](https://www.linkedin.com/in/dhanymuhammad08/)                     | M211B4KY3009 | Machine Learning   | [<img src="assets/github.png" alt="github-logo" width="30px">](LINK GITHUB)             |
+| [Azis Marwadin](https://www.linkedin.com/in/azis-marwadin-5189442a0/)                     | M211B4KY0765 | Machine Learning   | [<img src="assets/github.png" alt="github-logo" width="30px">](LINK GITHUB)             |
+| [Muhammad Fatih Azhar]()                                                                  | C211B4KY2838 | Cloud Computing    | [<img src="assets/github.png" alt="github-logo" width="30px">](LINK GITHUB)             |
+| [Arien Alen Sucahyo](https://www.linkedin.com/in/arien-alen-58b482330/)                   | C211B4KX0635 | Cloud Computing    | [<img src="assets/github.png" alt="github-logo" width="30px">](LINK GITHUB)             |
+| [Muhammad Rafli Octavian](https://www.linkedin.com/in/muhammad-rafli-octavian-8b3055231/) | A211B4KY3006 | Mobile Development | [<img src="assets/github.png" alt="github-logo" width="30px">](LINK GITHUB)             |
+| [Akmal Muhammad Rasyad](https://www.linkedin.com/in/akmalmrasyad/)                        | A211B4KY0300 | Mobile Development | [<img src="assets/github.png" alt="github-logo" width="30px">](LINK GITHUB)             |
