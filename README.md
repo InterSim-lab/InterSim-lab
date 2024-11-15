@@ -5,7 +5,13 @@
 </p>
 
 <p>
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit veritatis adipisci dolores veniam! Quasi ipsa provident assumenda necessitatibus accusantium soluta voluptatum sequi consectetur architecto fugit commodi sit doloremque ducimus, praesentium alias ex quos hic explicabo nostrum animi eos. Ipsum fugit reprehenderit explicabo, atque assumenda nobis repudiandae eveniet omnis quasi, saepe eaque molestias beatae. Magni, voluptatem hic rerum sint maxime itaque reprehenderit nam eos, ducimus natus ipsam dolor, aliquam provident aut aliquid ex ullam earum! Rem atque, saepe commodi suscipit nesciunt culpa perferendis neque in vel autem adipisci aut fugit. Veniam magni repellat quaerat quam possimus nam enim mollitia.
+    InterSim is an AI-powered interview simulation platform designed to help fresh graduates prepare for job interviews. Recognizing that many new graduates feel underprepared, lack confidence, and often experience anxiety during interviews, InterSim provides a practical solution to improve communication skills and self-presentation in front of recruiters.
+</p>
+<p>
+    Our development of InterSim leverages advanced technologies such as BERT to analyze the compatibility between candidates' skills and job descriptions, and LLaMA to generate relevant and adaptive interview questions. With its interactive and personalized simulations, InterSim offers a realistic interview experience, helping users practice their responses with increased fluency and confidence. This platform is particularly beneficial for job seekers, especially fresh graduates, as it enhances their chances of success in the recruitment process.
+</p>
+<p>
+    We believe InterSim can help job seekers build confidence and better prepare for interviews by offering an experience that closely resembles a real interview. This approach is expected to reduce interview anxiety and improve users' communication skills when interacting with recruiters.
 </p>
 
 ## Our Team Members
