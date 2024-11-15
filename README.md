@@ -5,7 +5,7 @@
 </p>
 
 <p>
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit veritatis adipisci dolores veniam! Quasi ipsa provident assumenda necessitatibus accusantium soluta voluptatum sequi consectetur architecto fugit commodi sit doloremque ducimus, praesentium alias ex quos hic explicabo nostrum animi eos. Ipsum fugit reprehenderit explicabo, atque assumenda nobis repudiandae eveniet omnis quasi, saepe eaque molestias beatae. Magni, voluptatem hic rerum sint maxime itaque reprehenderit nam eos, ducimus natus ipsam dolor, aliquam provident aut aliquid ex ullam earum! Rem atque, saepe commodi suscipit nesciunt culpa perferendis neque in vel autem adipisci aut fugit. Veniam magni repellat quaerat quam possimus nam enim mollitia, officia impedit?
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit veritatis adipisci dolores veniam! Quasi ipsa provident assumenda necessitatibus accusantium soluta voluptatum sequi consectetur architecto fugit commodi sit doloremque ducimus, praesentium alias ex quos hic explicabo nostrum animi eos. Ipsum fugit reprehenderit explicabo, atque assumenda nobis repudiandae eveniet omnis quasi, saepe eaque molestias beatae. Magni, voluptatem hic rerum sint maxime itaque reprehenderit nam eos, ducimus natus ipsam dolor, aliquam provident aut aliquid ex ullam earum! Rem atque, saepe commodi suscipit nesciunt culpa perferendis neque in vel autem adipisci aut fugit. Veniam magni repellat quaerat quam possimus nam enim mollitia.
 </p>
 
 ## Our Team Members
