@@ -1,7 +1,7 @@
 <h3 align="center">Product Based Capstone Project Bangkit 2024 | Batch 2</h3>
 <hr>
 <p align="center">
-    <img src="assets/logo-1.jpg" alt="tanampintar-logo" width="350px" >
+    <img src="assets/logo-1.png" alt="tanampintar-logo" width="350px" >
 </p>
 
 <p>
